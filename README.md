@@ -1,2 +1,1 @@
-# asm1
-Assignment 01 Stater
+https://nguyenbfx.github.io/asm1/
